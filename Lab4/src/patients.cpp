@@ -5,6 +5,9 @@
  *      Author: jfrigill
  */
 
-
+patient :: patient()
+{
+	cout << "Please enter the patient's first name"
+}
 
 
