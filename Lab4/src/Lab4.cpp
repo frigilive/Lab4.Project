@@ -7,11 +7,13 @@
 //============================================================================
 
 #include <iostream>
+#include <string.h>
+#include "patients.hpp"
 using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "patrick + asra (under the table)";
+	cout << "patrick + asra (under the table) <3";
 	cout << " ;P ";
 	return 0;
 }
