@@ -7,6 +7,8 @@
 //============================================================================
 
 #include <iostream>
+#include <string.h>
+#include "patients.hpp"
 using namespace std;
 
 int main() {
