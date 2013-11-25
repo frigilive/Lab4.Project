@@ -13,9 +13,7 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "patrick + asra (under the table) <3";
-	cout << "what's up";
 	cout << " ;P ";
-
+	cout << " adddd";
 	return 0;
 }
